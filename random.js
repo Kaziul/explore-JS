@@ -1,0 +1,10 @@
+var num = 2.4999;
+var result1 = Math.floor(num);
+var result2 = Math.ceil(num);
+var result3 = Math.round(num);
+var result4 = Math.random() * 10;
+var output = Math.round(result4);
+console.log(result1);
+console.log(result2);
+console.log(result3);
+console.log(output);
